@@ -23,28 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/page/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/page/people/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/page/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/page/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -487,28 +466,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/www.linkedin.com/in/xinyue-zhang-7ba887ba", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/page/./feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/xinyue-zhang-7ba887ba", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=WvixLxcAAAAJ&hl", "_blank");
         },
       },{
       id: 'light-theme',
