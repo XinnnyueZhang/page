@@ -1,0 +1,45 @@
+/* Custom background image with transparent content areas */
+
+/* Add background image to the body */
+body {
+  background-image: url('/assets/img/bg.png'); /* Replace with your image path */
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Don't repeat the image */
+  background-attachment: fixed; /* Fixed background (optional) */
+}
+
+/* Make the main content area semi-transparent */
+.container {
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+  border-radius: 10px; /* Optional: rounded corners */
+  padding: 20px; /* Add some padding */
+  margin-top: 20px; /* Add some top margin */
+  margin-bottom: 20px; /* Add some bottom margin */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
+}
+
+/* Alternative: Make navbar semi-transparent too */
+.navbar {
+  background-color: rgba(255, 255, 255, 0.9) !important; /* Semi-transparent navbar */
+  backdrop-filter: blur(10px); /* Optional: blur effect */
+}
+
+/* Alternative: Make cards semi-transparent */
+.card {
+  background-color: rgba(255, 255, 255, 0.8) !important; /* Semi-transparent cards */
+  backdrop-filter: blur(5px); /* Optional: blur effect */
+}
+
+/* For dark mode compatibility */
+[data-theme="dark"] .container {
+  background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent dark background for dark mode */
+}
+
+[data-theme="dark"] .navbar {
+  background-color: rgba(0, 0, 0, 0.9) !important;
+}
+
+[data-theme="dark"] .card {
+  background-color: rgba(0, 0, 0, 0.7) !important;
+}
