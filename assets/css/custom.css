@@ -2,7 +2,7 @@
 
 /* Add background image to the body */
 body {
-  background-image: url('/assets/img/bg.png'); /* Replace with your image path */
+  background-image: url('/assets/img/background.jpg'); /* Replace with your image path */
   background-size: cover; /* Cover the entire viewport */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Don't repeat the image */
