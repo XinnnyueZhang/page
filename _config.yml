@@ -7,7 +7,6 @@ first_name: Xinnyue
 middle_name: 
 last_name: Zhang
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -16,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🌙 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ❤️🌙 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://xinnnyuezhang.github.io # the base hostname & protocol for your site
 baseurl: /page/. # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -29,7 +28,7 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: buefy # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
@@ -188,6 +187,11 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/publications.md
+  - _pages/repositories.md
+  - _pages/projects.md
   - purgecss.config.js
   - README.md
   - readme_preview/
