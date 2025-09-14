@@ -25,5 +25,6 @@ latest_posts:
 I am a Computer Science PhD candidate at ShanghaiTech University, advised by Prof. Laurent Kneip. 
 My research focuses on 3D computer vision, particularly in the areas of Structure from Motion, visual localization, and camera calibration.
 Currently, I am a visiting researcher at Lund University, working with Prof. Viktor Larsson.
+
 I am seeking research internship opportunities for Spring 2026.
 As I approach my graduation in June 2026, I am looking for a full-time position as a researcher or computer vision engineer.
