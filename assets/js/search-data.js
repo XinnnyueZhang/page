@@ -391,16 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/page/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-simulatorhc-got-accepted-by-cvpr-2025-hightlight",
+          title: 'simulatorHC got accepted by CVPR 2025 (hightlight)!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/page/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-fcop-got-accepted-by-calipose-workshop-iccv-2025",
+          title: 'fCOP got accepted by CALIPOSE workshop ICCV 2025!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
