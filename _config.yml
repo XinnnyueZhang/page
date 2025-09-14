@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Xinnyue Zhang # the website title (if blank, full name will be used instead)
-first_name: Xinnyue
+title: Xinyue Zhang # the website title (if blank, full name will be used instead)
+first_name: Xinyue
 middle_name: 
 last_name: Zhang
 contact_note: >
@@ -189,7 +189,6 @@ exclude:
   - _pages/about_einstein.md
   - _pages/blog.md
   - _pages/books.md
-  - _pages/publications.md
   - _pages/repositories.md
   - _pages/projects.md
   - _pages/profiles.md
