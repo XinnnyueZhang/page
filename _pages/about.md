@@ -22,5 +22,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-PhD student focuses on 3D computer vision and camera calibrations.
-
+I am a Computer Science PhD candidate at ShanghaiTech University, advised by Prof. Laurent Kneip. 
+My research focuses on 3D computer vision, particularly in the areas of Structure from Motion, visual localization, and camera calibration.
+Currently, I am a visiting researcher at Lund University, working with Prof. Viktor Larsson.
+I am seeking research internship opportunities for Spring 2026.
+As I approach my graduation in June 2026, I am looking for a full-time position as a researcher or computer vision engineer.
