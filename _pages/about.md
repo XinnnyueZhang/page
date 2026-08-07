@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate
+subtitle: Incoming Postdoctoral Researcher at the University of Oulu
 
 profile:
   align: right
@@ -22,9 +22,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Computer Science PhD candidate at ShanghaiTech University, advised by Prof. Laurent Kneip. 
-My research focuses on 3D computer vision, particularly in the areas of Structure from Motion, visual localization, and camera calibration.
-Currently, I am a visiting researcher at ETH Zürich, working with Daniel Barath on feed-forward 3D reconstruction.
-Previously, I also visited Lund University, working with Prof. Viktor Larsson on Fisheye camera visual localization.
+I will soon join [Prof. Janne Heikkilä](https://www.oulu.fi/en/researchers/janne-heikkila)’s group at the University of Oulu as a postdoctoral researcher. Supported by ELLIS Finland, I will work under the joint mentorship of Prof. Heikkilä, [Prof. Viktor Larsson](https://vlarsson.github.io/), and [Prof. Juho Kannala](https://users.aalto.fi/~kannalj1/), focusing on feed-forward 3D reconstruction and related problems in 3D vision.
 
-As I approach my graduation in July 2026, I am looking for a full-time position as a researcher or computer vision engineer.
+This summer, I completed my PhD in Computer Science at ShanghaiTech University, advised by [Prof. Laurent Kneip](https://sist.shanghaitech.edu.cn/lkneip_en/main.htm). My doctoral research centered on geometric computer vision, particularly minimal solvers and optimization, with publications in IEEE TPAMI, CVPR, ICCV, IJCV, and ICRA.
+
+With Laurent’s support, I also visited ETH Zürich, where I worked with [Dr. Dániel Baráth](https://danini.github.io/) on feed-forward 3D reconstruction, and Lund University, where I collaborated with [Prof. Viktor Larsson](https://vlarsson.github.io/) on visual localization with fisheye cameras.
