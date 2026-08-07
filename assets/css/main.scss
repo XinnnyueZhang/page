@@ -26,7 +26,7 @@ $max-content-width: {{ site.max_width }};
 
 /* Site-wide background image */
 body {
-  background-image: url("{{ '/assets/img/bg2.jpg' | relative_url }}");
+  background-image: url("{{ '/assets/img/graduation-day.jpg' | relative_url }}");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -37,5 +37,5 @@ body {
 html[data-theme="dark"] body {
   background-image:
     linear-gradient(rgba(10, 14, 22, 0.74), rgba(10, 14, 22, 0.74)),
-    url("{{ '/assets/img/bg2.jpg' | relative_url }}");
+    url("{{ '/assets/img/graduation-day.jpg' | relative_url }}");
 }
